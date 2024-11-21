@@ -31,7 +31,6 @@ int main() {
             while(comp.get(ch)) {
                 out << ch;
             }
-            comp.close();
         } else {
             out << ch;
         }
